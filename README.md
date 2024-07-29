@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravi-64bit
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on tml and python
+- 💞️ I’m looking to collaborate on javascript and ML
 - 📫 Reach me on instagram www.instagram.com/__ravi_k
 
 <!---
